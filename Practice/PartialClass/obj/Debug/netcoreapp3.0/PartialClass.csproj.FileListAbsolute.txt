@@ -1,0 +1,4 @@
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Practice\PartialClass\obj\Debug\netcoreapp3.0\PartialClass.csprojAssemblyReference.cache
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Practice\PartialClass\obj\Debug\netcoreapp3.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Practice\PartialClass\obj\Debug\netcoreapp3.0\PartialClass.AssemblyInfoInputs.cache
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Practice\PartialClass\obj\Debug\netcoreapp3.0\PartialClass.AssemblyInfo.cs

@@ -1,0 +1,6 @@
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Interview\Strings\bin\Debug\Strings.exe
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Interview\Strings\bin\Debug\Strings.pdb
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Interview\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Interview\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Interview\Strings\obj\Debug\Strings.exe
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Interview\Strings\obj\Debug\Strings.pdb

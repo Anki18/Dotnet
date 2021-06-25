@@ -1,0 +1,12 @@
+C:\Users\anvaidya\Documents\PlayGround\DotNet\DesignPatterns\Factory\bin\Debug\netcoreapp3.0\Factory.exe
+C:\Users\anvaidya\Documents\PlayGround\DotNet\DesignPatterns\Factory\bin\Debug\netcoreapp3.0\Factory.deps.json
+C:\Users\anvaidya\Documents\PlayGround\DotNet\DesignPatterns\Factory\bin\Debug\netcoreapp3.0\Factory.runtimeconfig.json
+C:\Users\anvaidya\Documents\PlayGround\DotNet\DesignPatterns\Factory\bin\Debug\netcoreapp3.0\Factory.runtimeconfig.dev.json
+C:\Users\anvaidya\Documents\PlayGround\DotNet\DesignPatterns\Factory\bin\Debug\netcoreapp3.0\Factory.dll
+C:\Users\anvaidya\Documents\PlayGround\DotNet\DesignPatterns\Factory\bin\Debug\netcoreapp3.0\Factory.pdb
+C:\Users\anvaidya\Documents\PlayGround\DotNet\DesignPatterns\Factory\obj\Debug\netcoreapp3.0\Factory.csprojAssemblyReference.cache
+C:\Users\anvaidya\Documents\PlayGround\DotNet\DesignPatterns\Factory\obj\Debug\netcoreapp3.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\anvaidya\Documents\PlayGround\DotNet\DesignPatterns\Factory\obj\Debug\netcoreapp3.0\Factory.AssemblyInfoInputs.cache
+C:\Users\anvaidya\Documents\PlayGround\DotNet\DesignPatterns\Factory\obj\Debug\netcoreapp3.0\Factory.AssemblyInfo.cs
+C:\Users\anvaidya\Documents\PlayGround\DotNet\DesignPatterns\Factory\obj\Debug\netcoreapp3.0\Factory.dll
+C:\Users\anvaidya\Documents\PlayGround\DotNet\DesignPatterns\Factory\obj\Debug\netcoreapp3.0\Factory.pdb

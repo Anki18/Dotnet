@@ -1,0 +1,12 @@
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Practice\Struct\bin\Debug\netcoreapp3.0\Struct.exe
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Practice\Struct\bin\Debug\netcoreapp3.0\Struct.deps.json
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Practice\Struct\bin\Debug\netcoreapp3.0\Struct.runtimeconfig.json
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Practice\Struct\bin\Debug\netcoreapp3.0\Struct.runtimeconfig.dev.json
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Practice\Struct\bin\Debug\netcoreapp3.0\Struct.dll
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Practice\Struct\bin\Debug\netcoreapp3.0\Struct.pdb
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Practice\Struct\obj\Debug\netcoreapp3.0\Struct.csprojAssemblyReference.cache
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Practice\Struct\obj\Debug\netcoreapp3.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Practice\Struct\obj\Debug\netcoreapp3.0\Struct.AssemblyInfoInputs.cache
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Practice\Struct\obj\Debug\netcoreapp3.0\Struct.AssemblyInfo.cs
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Practice\Struct\obj\Debug\netcoreapp3.0\Struct.dll
+C:\Users\anvaidya\Documents\PlayGround\DotNet\Practice\Struct\obj\Debug\netcoreapp3.0\Struct.pdb
